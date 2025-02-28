@@ -1,0 +1,33 @@
+bODY{
+    background-color: aliceblue;
+}
+
+
+.azul{
+    background-color: blue;
+    padding: 56px;
+}
+
+.amarela{
+    background-color: darkgoldenrod;
+    padding: 266px;
+    margin: 30PX;
+ 
+}
+
+ .flex{
+    display: flex;
+ }
+
+
+ #aba{
+    background-color: rgb(197, 154, 236);
+    
+ }
+ .a{
+    padding-right: 800px;
+ }
+
+ .e{
+    padding-bottom: 600px;
+ }
